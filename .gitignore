@@ -122,3 +122,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# sql file
+*.sql
+
+# example files
+example.*
+
+# lock files
+*.lock
